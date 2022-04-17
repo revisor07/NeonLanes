@@ -20,7 +20,6 @@ public class game_manager : MonoBehaviour
     public Stopwatch timer = new Stopwatch();
     public audio_manager AudioManager;
 
-
     void Start()
     {
         rb = GetComponent<Rigidbody>();
@@ -32,7 +31,7 @@ public class game_manager : MonoBehaviour
 
     void Update()
 	{
-        
+
         if (!dead)
             rb.MovePosition(rb.position + transform.forward * Time.deltaTime * forwardSpeed);
         if (timer.Elapsed.TotalSeconds >= 1)

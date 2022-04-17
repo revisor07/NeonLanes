@@ -12,11 +12,9 @@ public class audio_manager : MonoBehaviour
     {
         theme.Play();
     }
-
     // Update is called once per frame
     void Update()
     {
-
     }
     public void playShatterSound()
     {
