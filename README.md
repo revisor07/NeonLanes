@@ -1,11 +1,12 @@
 # Neon lanes
 A simple 3d game I made as a part of learning Unity Engine and C#.
 
-Asset folder along with the executable download can be found here: [https://github.com/revisor07/NeonLanes](https://github.com/revisor07/NeonLanes)
-
 
 ## How to Play
-
-
-- Download and unzip NeonLanes.zip from here: [https://github.com/revisor07/NeonLanes](https://github.com/revisor48/NeonLanes)
+- Check out the latest release for the executable, note that its currently available only for windows x64
 - Move one lane at a time by pressing left/right keys to avoid obstacles and reach the finish line 
+
+## Game Preview
+https://github.com/revisor07/NeonLanes/blob/master/neon%20lanes%20recording.mp4
+
+
