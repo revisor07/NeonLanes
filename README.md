@@ -1,5 +1,5 @@
 # Neon lanes
-A simple 3d game I made as a part of learning Unity Engine and C#.
+An arcade game made on Unity engine with a full user interface and levels using Unity3d engine and C#
 
 
 ## How to Play
